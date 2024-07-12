@@ -1,7 +1,7 @@
 # editor
 .idea
 .vscode
-Flow_Bots/FACT/Minus_1/FACT_MNSO/Proprietary_MNSO_Notes_and_Summaries.docx
+Flow_Bots/FACT/Minus_1/FACT_MNSO/Proprietary MNSO Notes-and-Summaries.docx
 # dependencies
 **/node_modules
 **/package-lock.json
