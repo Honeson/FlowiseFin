@@ -5,7 +5,7 @@
 **/node_modules
 **/package-lock.json
 **/yarn.lock
-*.docx
+Flow_Bots/FACT/Minus_1/FACT_BEST/RA FACT Capital Analyst Tips and Hacks.pdf
 ## logs
 **/logs
 **/*.log
